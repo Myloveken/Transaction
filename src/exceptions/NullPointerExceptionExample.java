@@ -1,5 +1,4 @@
 package exceptions;
-
 public class NullPointerExceptionExample {
 
     public static void main(String[] args) {
@@ -11,4 +10,4 @@ public class NullPointerExceptionExample {
         System.out.println("Positivo");
 }
 
-{
+}
